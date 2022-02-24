@@ -1,5 +1,5 @@
 # Proje3SearchTree
-Veri Yapıları ve Algoritma projesi
+Veri Yapıları ve Algoritma projesi 3
 
 # Proje 3
 
